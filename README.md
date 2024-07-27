@@ -6,6 +6,6 @@
   <li>[실행] 버튼을 클릭하세요.</li>
   <li>키워드별 시트에서 수집한 뉴스를 볼 수 있습니다.</li>
 </ol>
-<p>
-  서비스 URL: <a href="https://docs.google.com/spreadsheets/d/1th5kgze73OhjINWd0-ve6yl72EYAN1fc0EA1hfzrU7U/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1th5kgze73OhjINWd0-ve6yl72EYAN1fc0EA1hfzrU7U/edit?usp=sharing</a>
-</p>
+
+<h3>서비스 URL</h3>
+<a href="https://docs.google.com/spreadsheets/d/1th5kgze73OhjINWd0-ve6yl72EYAN1fc0EA1hfzrU7U/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1th5kgze73OhjINWd0-ve6yl72EYAN1fc0EA1hfzrU7U/edit?usp=sharing</a>
